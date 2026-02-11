@@ -1,7 +1,9 @@
 # 💫 About Me:
 I’m Manasa Chalasani, a Full Stack Developer with 3+ years of experience building secure, scalable products in fintech and e-commerce. I recently completed my Master’s in Computer Science (AI and ML) at the University at Buffalo, and I enjoy working end-to-end, from backend services and data pipelines to user-focused product experiences. 
+
 Right now, I work at Morgan Stanley on a cloud-native, real-time trading and analytics platform using Python, Airflow, PostgreSQL, and MLflow, with a focus on reliability, performance, and clean data workflows. 
 Outside of work, I build products because I genuinely like solving real problems around me. Smart Guardian is a patented real-time driver safety system I built to make road safety proactive by combining computer vision with IoT signals, it’s backed by $13.2K in funding and was recognized as a Top 10 finalist in Tata InnoVent. Embr is an AI productivity platform I created to reduce app switching, it connects 15+ tools like Gmail, Calendar, Drive, files, and web research into one workflow so tasks can be completed end-to-end. 
+
 I also built BVRITH Delights, a campus food ordering platform, to make ordering smoother for students and easier to manage for the canteen team by reducing confusion and delays. Overall, I’m excited about building practical, dependable systems that people can actually use, and I’m always looking for problems where software can make everyday life simpler and safer. 
 
 
